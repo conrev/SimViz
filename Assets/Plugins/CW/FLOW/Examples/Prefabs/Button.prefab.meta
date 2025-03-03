@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2f4222b8cd70b994a820d42169f298ae
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/Prefabs/Button.prefab
+  uploadId: 645712

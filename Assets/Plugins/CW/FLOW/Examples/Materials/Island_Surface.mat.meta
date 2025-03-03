@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4866fce8ebb2f2d4baaa42c90272ddd0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/Materials/Island_Surface.mat
+  uploadId: 645712

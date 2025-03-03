@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a51a7b70dd06f464f8bab24832539230
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/Materials/Dithered White.mat
+  uploadId: 645712

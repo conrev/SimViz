@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c9ee3094605c73642bdd4d03084bb151
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/Prefabs/Splash Particles.prefab
+  uploadId: 645712

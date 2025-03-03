@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: adbf7bcfe36e69948a5686ef49cb4fa8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/Shaders/FLOW_Dither_Bundle.asset
+  uploadId: 645712

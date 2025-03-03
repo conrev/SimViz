@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a50db8089443d94887fea7331bbe2e9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/Materials/White.mat
+  uploadId: 645712

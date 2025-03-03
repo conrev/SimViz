@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6fb603f58b2b42f4daac6ca25aec0f59
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/Prefabs/GroundB.prefab
+  uploadId: 645712

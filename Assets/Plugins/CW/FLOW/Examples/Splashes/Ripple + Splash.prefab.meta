@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ec6b649bfa371cf4d931809de55802bb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/Splashes/Ripple + Splash.prefab
+  uploadId: 645712

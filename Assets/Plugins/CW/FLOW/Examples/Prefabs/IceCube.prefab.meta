@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d9b15f2e8b2de9747a22e74c9789ac57
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/Prefabs/IceCube.prefab
+  uploadId: 645712

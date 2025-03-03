@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f099a79a88db2cf4fa55e31e463e677c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/Materials/Dirt + Wetness.mat
+  uploadId: 645712

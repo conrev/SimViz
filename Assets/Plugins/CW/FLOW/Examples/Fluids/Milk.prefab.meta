@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d54bd684097386e4cbd56aa8cb175e26
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/Fluids/Milk.prefab
+  uploadId: 645712

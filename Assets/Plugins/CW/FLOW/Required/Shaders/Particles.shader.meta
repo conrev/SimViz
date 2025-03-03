@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5c0eab6f0920a004381c3643ba44fbda
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Required/Shaders/Particles.shader
+  uploadId: 645712

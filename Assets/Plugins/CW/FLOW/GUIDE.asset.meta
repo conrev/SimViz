@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e57c60b66fc0cf4397484264142c7de
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/GUIDE.asset
+  uploadId: 645712

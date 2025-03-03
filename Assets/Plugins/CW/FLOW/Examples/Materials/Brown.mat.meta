@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4d68da29b6d94794aa02d80e9333bbab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/Materials/Brown.mat
+  uploadId: 645712

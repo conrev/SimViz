@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c9e61d648b564bf4da294e64f7081191
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/package.json
+  uploadId: 645712

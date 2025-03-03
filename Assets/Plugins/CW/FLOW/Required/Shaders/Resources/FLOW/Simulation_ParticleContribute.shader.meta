@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7c98b6d1a0f57254ca4d9e22fe28377b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Required/Shaders/Resources/FLOW/Simulation_ParticleContribute.shader
+  uploadId: 645712

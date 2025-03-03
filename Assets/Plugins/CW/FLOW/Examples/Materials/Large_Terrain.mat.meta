@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e394ea7934a06184a9ef9530f774c965
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/Materials/Large_Terrain.mat
+  uploadId: 645712

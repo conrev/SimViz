@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 44e7650318698cc41940cfbfdfd74763
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Required/Scripts/FlowTrigger.cs
+  uploadId: 645712

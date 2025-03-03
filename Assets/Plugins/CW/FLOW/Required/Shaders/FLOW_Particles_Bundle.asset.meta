@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8a813aa92ba91fd4a8e93a1655fa2e87
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Required/Shaders/FLOW_Particles_Bundle.asset
+  uploadId: 645712

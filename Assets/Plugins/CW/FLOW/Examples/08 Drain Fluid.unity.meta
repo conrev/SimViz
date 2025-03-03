@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8fd51b2a3630499458aa0a6a49328d95
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/08 Drain Fluid.unity
+  uploadId: 645712

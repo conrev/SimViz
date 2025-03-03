@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 74d1eaf02a72b464bbc660190bcd7c02
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/Prefabs/PropaneTank.prefab
+  uploadId: 645712

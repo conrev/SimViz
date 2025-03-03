@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c96e61e9ef0ada344849d6fb1cb9774f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Required/Scripts/FlowContainer.cs
+  uploadId: 645712

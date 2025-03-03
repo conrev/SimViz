@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7f024a09d8869f84a8a0a81d92638a73
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Required/Materials/Surface 1.mat
+  uploadId: 645712

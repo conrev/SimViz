@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 91e1a95fce3f4d64ca66d75750ff26dd
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/Shaders/Terrain.shader
+  uploadId: 645712

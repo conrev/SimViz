@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 586081136d7eedb48a2262fcc19a9a00
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/Prefabs/GasCan.prefab
+  uploadId: 645712

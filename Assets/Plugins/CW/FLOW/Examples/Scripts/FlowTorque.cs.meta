@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d4e029d659cd34a4ebcab1d73e0c67b0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/Scripts/FlowTorque.cs
+  uploadId: 645712

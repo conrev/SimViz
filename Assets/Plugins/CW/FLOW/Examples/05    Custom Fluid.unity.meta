@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a55b0e10155d8ac48a5dd08531c072ed
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/05    Custom Fluid.unity
+  uploadId: 645712

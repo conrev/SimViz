@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8efe3fa059e8d204bab8458daea1c41d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/Materials/White + Wetness.mat
+  uploadId: 645712

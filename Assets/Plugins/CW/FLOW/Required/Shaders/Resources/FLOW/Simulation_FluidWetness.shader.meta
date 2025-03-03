@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6e152e24dc6a04c4ba049850a8dca1b5
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Required/Shaders/Resources/FLOW/Simulation_FluidWetness.shader
+  uploadId: 645712

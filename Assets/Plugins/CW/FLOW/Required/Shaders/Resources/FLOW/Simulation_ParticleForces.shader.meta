@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9bcd392a8ba59e24897e42323d9fd08f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Required/Shaders/Resources/FLOW/Simulation_ParticleForces.shader
+  uploadId: 645712

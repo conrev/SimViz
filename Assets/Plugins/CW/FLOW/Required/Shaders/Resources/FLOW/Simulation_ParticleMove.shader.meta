@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2c348f499c386e241bb65b8ae0a7d775
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Required/Shaders/Resources/FLOW/Simulation_ParticleMove.shader
+  uploadId: 645712

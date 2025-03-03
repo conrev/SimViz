@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d424a1f0619a1b24484d92e77523ec7d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Required/Shaders/Debug Ground.shader
+  uploadId: 645712

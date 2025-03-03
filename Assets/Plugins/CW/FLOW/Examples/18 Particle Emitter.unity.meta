@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 39c009ac42cb2bf4192a8ae5037e021f
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/18 Particle Emitter.unity
+  uploadId: 645712

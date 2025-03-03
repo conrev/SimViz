@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0820b4beb070541448bde3b6ed2c3658
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/Shaders/FLOW_Terrain_Bundle.asset
+  uploadId: 645712

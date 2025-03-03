@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e03d8a50e604f0a48ace93658fd808b0
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/29 Paint Fluid.unity
+  uploadId: 645712

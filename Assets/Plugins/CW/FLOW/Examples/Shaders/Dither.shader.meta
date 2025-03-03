@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5c2d210b6b79d4748acbd9385d8eadec
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/Shaders/Dither.shader
+  uploadId: 645712

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b1c60f9cad4b4cd48bad941301429fae
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/Fluids/Clear Water.prefab
+  uploadId: 645712

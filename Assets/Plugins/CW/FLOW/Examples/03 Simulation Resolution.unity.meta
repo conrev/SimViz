@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8a4b6ea013b3bc64e8db11388fdfc6f8
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/03 Simulation Resolution.unity
+  uploadId: 645712

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 21914548c8ea2b641b0dcfaaea1832be
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/02 Buttons.unity
+  uploadId: 645712

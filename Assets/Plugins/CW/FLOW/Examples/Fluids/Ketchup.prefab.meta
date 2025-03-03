@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9abdee20216f5244fa6b50e8344f8a29
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/Fluids/Ketchup.prefab
+  uploadId: 645712

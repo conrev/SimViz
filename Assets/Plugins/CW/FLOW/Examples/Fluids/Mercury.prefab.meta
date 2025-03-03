@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 945e8e15cc8c83145bde3b3ddcde5cc7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Examples/Fluids/Mercury.prefab
+  uploadId: 645712

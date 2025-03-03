@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2b11aee07e67d3d46b7780797658155a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197014
+  packageName: FLOW
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/FLOW/Required/Shaders/Resources/FLOW/Reader_SampleArea.shader
+  uploadId: 645712
