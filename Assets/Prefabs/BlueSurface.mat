@@ -14,7 +14,6 @@ Material:
   m_ValidKeywords:
   - _ALPHA_VERTICAL
   - _FOAM_ALPHA
-  - _STOCHASTIC_ON
   m_InvalidKeywords:
   - _NORMALMAP
   m_LightmapFlags: 4
@@ -143,7 +142,7 @@ Material:
     - _AlphaToCoverage: 0
     - _AlphaToMask: 0
     - _Ambient: 0.8
-    - _AnimationSpeed: 1.3
+    - _AnimationSpeed: 1
     - _BendFlattenStrength: 1
     - _BendMode: 0
     - _BendPushStrength: 1
@@ -186,7 +185,7 @@ Material:
     - _GlossyReflections: 1
     - _HasEnviro: 0
     - _HasFaceted: 0
-    - _HasStochastic: 1
+    - _HasStochastic: 0
     - _HasStretch: 0
     - _HasTransparency: 1
     - _HueVariationHeight: 0
@@ -305,3 +304,4 @@ Material:
     - _WorldLightDir: {r: 0, g: 0.1, b: -0.5, a: 0}
     - fogColor: {r: 0.7, g: 0.7, b: 0.82, a: 1}
   m_BuildTextureStacks: []
+  m_AllowLocking: 1

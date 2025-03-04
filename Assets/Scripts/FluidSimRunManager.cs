@@ -32,23 +32,22 @@ public class FluidSimRunManager : MonoBehaviour
 
         FlowSnapshotData snapshot = new FlowSnapshotData();
 
+        string json = "";
+
         await Task.Run(() =>
         {
             if (simulation != null)
             {
-                var json = System.IO.File.ReadAllText(finalPath);
-
-                if (string.IsNullOrEmpty(json) == false)
-                {
-                    JsonUtility.FromJsonOverwrite(json, snapshot);
-
-                    snapshot.ConvertCompressedToReadable();
-                    snapshot.ConvertReadableToRaw();
-                    snapshot.RawToSimulation(simulation);
-                }
+                json = System.IO.File.ReadAllText(finalPath);
+                JsonUtility.FromJsonOverwrite(json, snapshot);
             }
 
         });
+
+        snapshot.ConvertCompressedToReadable();
+        snapshot.ConvertReadableToRaw();
+        snapshot.RawToSimulation(simulation);
+        simulation.Simulating = true;
     }
 
     public void LoadSimulationState(String prefix)
