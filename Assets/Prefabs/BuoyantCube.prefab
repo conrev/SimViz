@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8113939287028624451}
   - component: {fileID: 5039657578742052081}
-  m_Layer: 2
+  m_Layer: 0
   m_Name: Sample
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -46,7 +46,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simulation: {fileID: 0}
   strength: 1
-  radius: 0.7
+  radius: 0.2
   epsilon: 0.1
   onSampled:
     m_PersistentCalls:
@@ -85,8 +85,8 @@ GameObject:
   - component: {fileID: 5207616747011453275}
   - component: {fileID: 3802451649021770043}
   - component: {fileID: -131452893866247307}
-  m_Layer: 2
-  m_Name: Cube
+  m_Layer: 0
+  m_Name: BuoyantCube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -102,7 +102,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 7.37, y: 9.996149, z: -11.93}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 0.3}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 8113939287028624451}
