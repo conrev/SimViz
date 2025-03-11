@@ -172,7 +172,7 @@ Material:
     - _FlOff: -0.5
     - _FlatShadingBlend: 0
     - _Foam: 1
-    - _FoamBrightness: 0.747
+    - _FoamBrightness: 1
     - _FoamNormalStrength: 1
     - _FoamTiling: 1
     - _FresnelPower: 2
@@ -245,7 +245,7 @@ Material:
     - _VertexColorWindChannel: 0
     - _VertexDarkening: 0.1
     - _WaveStrengthMax: 1.25
-    - _WaveStrengthMin: 0.41
+    - _WaveStrengthMin: 0.52
     - _WaveStrengthScale: 3.3
     - _WindAmbientStrength: 0.2
     - _WindGustFreq: 4
